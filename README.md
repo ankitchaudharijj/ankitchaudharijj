@@ -10,23 +10,28 @@
 
 ### 🔐 Offensive Cyber Security Intern — INLIGHN TECH
 📅 March 30, 2025 – April 30, 2025  
-- Gained hands-on experience in offensive security practices  
-- Learned real-world application of penetration testing and reporting  
+INLIGHN TECH is a skill development company dedicated to empowering students through real-world learning and industry exposure. It bridges the gap between theory and practice with expert-led internship programs tailored for the evolving job market.  
+🌐 [INLIGHN TECH](https://www.linkedin.com/company/inlighn-tech/)
 
 ### 🤖 AI/ML Virtual Intern — ShadowFox
 📅 May 1, 2025 – May 31, 2025  
-- Completed real-time AI/ML projects from beginner to advanced level  
-- Submitted project presentations and engaged in mentoring sessions  
+ShadowFox is a privacy-focused software company known for developing secure web browsing solutions. Founded in 2020 in the US, the company emphasizes user privacy and innovation in browser technology.  
+🌐 [ShadowFox](https://tracxn.com/d/companies/shadowfox)
 
 ### 🧠 AI Intern — CodSoft
 📅 April 1, 2025 – April 30, 2025  
-- Learned AI fundamentals through practical assignments  
-- Worked on guided projects and development tasks  
+CodSoft is an IT services and consultancy firm that emphasizes practical knowledge and industry-relevant training. It offers students hands-on experience through live projects and real-world examples.  
+🌐 [CodSoft](https://www.codsoft.in/about-us)
 
 ### 🛡️ Cyber Security & Ethical Hacking Intern — CODTECH IT SOLUTIONS PVT LTD
 📅 March 25, 2025 – April 25, 2025  
-- Trained in ethical hacking methodologies  
-- Completed assignments, team collaboration, and project contributions  
+CODTECH IT SOLUTIONS provides innovative and reliable IT solutions tailored for businesses. The company also supports student-led ventures by providing necessary tools and expert guidance to prepare them for professional success.  
+🌐 [CODTECH IT SOLUTIONS](https://codtechitsolutions.in/about-us)
+
+### 🔍 Cyber Security Intern — The Red Users
+📅 April 16, 2025 – May 16, 2025  
+The Red Users is a cybersecurity-focused company that provides services and internships aimed at strengthening digital defense. They focus on skill development and real-world projects in ethical hacking and system security.  
+🌐 [The Red Users](https://theredusers.tech)
 
 ---
 

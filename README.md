@@ -1,57 +1,27 @@
-# 👋 Hi there, I'm Ankit Chaudhari!
+# 💫 About Me:
+🎓 I'm a Computer Science Engineering student at Delhi Skill and Entrepreneurship University<br>🛡️ Certified Ethical Hacker (CEH v12) | 🔍 Cybersecurity Enthusiast | 🧠 AI Learner<br>📍 Focused on Ethical Hacking, Network Auditing, VAPT, and Web Penetration Testing
 
-🎓 I'm a Computer Science Engineering student at **Delhi Skill and Entrepreneurship University**  
-🛡️ Certified Ethical Hacker (CEH v12) | 🔍 Cybersecurity Enthusiast | 🧠 AI Learner  
-📍 Focused on Ethical Hacking, Network Auditing, VAPT, and Web Penetration Testing
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cyber.ankitchaudhar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-chaudhari-40346b318/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/@ankitchaudharij) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitchaudharijj@gmail.com) 
 
-## 🧪 Internship Experience
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ankitchaudharijj&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ankitchaudharijj&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitchaudharijj&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 🔐 Offensive Cyber Security Intern — INLIGHN TECH
-📅 March 30, 2025 – April 30, 2025  
-INLIGHN TECH is a skill development company dedicated to empowering students through real-world learning and industry exposure. It bridges the gap between theory and practice with expert-led internship programs tailored for the evolving job market.  
-🌐 [INLIGHN TECH](https://www.linkedin.com/company/inlighn-tech/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ankitchaudharijj&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🤖 AI/ML Virtual Intern — ShadowFox
-📅 May 1, 2025 – May 31, 2025  
-ShadowFox is a privacy-focused software company known for developing secure web browsing solutions. Founded in 2020 in the US, the company emphasizes user privacy and innovation in browser technology.  
-🌐 [ShadowFox](https://tracxn.com/d/companies/shadowfox)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🧠 AI Intern — CodSoft
-📅 April 1, 2025 – April 30, 2025  
-CodSoft is an IT services and consultancy firm that emphasizes practical knowledge and industry-relevant training. It offers students hands-on experience through live projects and real-world examples.  
-🌐 [CodSoft](https://www.codsoft.in/about-us)
-
-### 🛡️ Cyber Security & Ethical Hacking Intern — CODTECH IT SOLUTIONS PVT LTD
-📅 March 25, 2025 – April 25, 2025  
-CODTECH IT SOLUTIONS provides innovative and reliable IT solutions tailored for businesses. The company also supports student-led ventures by providing necessary tools and expert guidance to prepare them for professional success.  
-🌐 [CODTECH IT SOLUTIONS](https://codtechitsolutions.in/about-us)
-
-### 🔍 Cyber Security Intern — The Red Users
-📅 April 16, 2025 – May 16, 2025  
-The Red Users is a cybersecurity-focused company that provides services and internships aimed at strengthening digital defense. They focus on skill development and real-world projects in ethical hacking and system security.  
-🌐 [The Red Users](https://theredusers.tech)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ankitchaudharijj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ankitchaudharijj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🧰 Tools & Technologies
-- Burp Suite, Nmap, Wireshark, Metasploit
-- Python, Bash, Linux, Windows
-- OWASP Top 10, Web Application Security
-- AI/ML with Python (Pandas, NumPy, Scikit-learn)
-
----
-
-## 📊 GitHub Stats
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitchaudharijj&show_icons=true&theme=radical)
-
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ankit-chaudhari-40346b318/)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitchaudharijj)
-
----
-
-*Always learning. Always exploring. Let’s secure the digital world together.* 🌐🔐
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
